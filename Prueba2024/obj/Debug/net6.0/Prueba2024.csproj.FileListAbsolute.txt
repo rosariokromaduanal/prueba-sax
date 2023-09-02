@@ -1,0 +1,17 @@
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\bin\Debug\net6.0\Prueba2024.exe
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\bin\Debug\net6.0\Prueba2024.deps.json
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\bin\Debug\net6.0\Prueba2024.runtimeconfig.json
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\bin\Debug\net6.0\Prueba2024.dll
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\bin\Debug\net6.0\Prueba2024.pdb
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\bin\Debug\net6.0\Saxprueba2.dll
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\obj\Debug\net6.0\Prueba2024.csproj.AssemblyReference.cache
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\obj\Debug\net6.0\Prueba2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\obj\Debug\net6.0\Prueba2024.AssemblyInfoInputs.cache
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\obj\Debug\net6.0\Prueba2024.AssemblyInfo.cs
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\obj\Debug\net6.0\Prueba2024.csproj.CoreCompileInputs.cache
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\obj\Debug\net6.0\Prueba2024.csproj.CopyComplete
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\obj\Debug\net6.0\Prueba2024.dll
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\obj\Debug\net6.0\refint\Prueba2024.dll
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\obj\Debug\net6.0\Prueba2024.pdb
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\obj\Debug\net6.0\Prueba2024.genruntimeconfig.cache
+C:\Users\Rosariorr\source\repos\Prueba2024\Prueba2024\obj\Debug\net6.0\ref\Prueba2024.dll

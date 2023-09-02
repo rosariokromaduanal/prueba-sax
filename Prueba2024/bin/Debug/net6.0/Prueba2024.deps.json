@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Prueba2024/1.0.0": {
+        "dependencies": {
+          "Saxprueba2": "1.0.0"
+        },
+        "runtime": {
+          "Prueba2024.dll": {}
+        }
+      },
+      "Saxprueba2/1.0.0": {
+        "runtime": {
+          "lib/net6.0/Saxprueba2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prueba2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Saxprueba2/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NN63uWU4qccRJgZ9xuc5fIw0fPjyFOXbkI3SxSB2M+LCbJD6+TlyDiQYl4vV4W7FTn181Ae5KIAUhCW2zfuKFA==",
+      "path": "saxprueba2/1.0.0",
+      "hashPath": "saxprueba2.1.0.0.nupkg.sha512"
+    }
+  }
+}
